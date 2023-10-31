@@ -1,4 +1,4 @@
-Kwarka Website
+Kwarka Cool Website
 
 
 <img src="./images/screen.png" />
